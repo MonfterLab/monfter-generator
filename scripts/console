@@ -1,0 +1,19 @@
+
+# monfter generate script
+./monfter-nft -f conf/app.conf -n 1000 -tokenId 0  > ./logs/monfter.log.1 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 1000 > ./logs/monfter.log.2 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 2000 > ./logs/monfter.log.3 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 3000 > ./logs/monfter.log.4 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 4000 > ./logs/monfter.log.5 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 5000 > ./logs/monfter.log.6 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 6000 > ./logs/monfter.log.7 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 7000 > ./logs/monfter.log.8 &
+
+./monfter-nft -f conf/app.conf -n 1000  -tokenId 8000 > ./logs/monfter.log.9 &
